@@ -11,7 +11,7 @@
 
 ####
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -71,17 +71,19 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=telegram&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
 ## Introduction ##
 
-#### I am a Senior Full-Stack Developer with over +7 years of experience designing, developing, and deploying scalable web and mobile applications. I specialize in both front-end and back-end development, with deep expertise in technologies such as JavaScript (React, Angular, Vue), Node.js, Python, and databases like PostgreSQL, MongoDB, and MySQL. ####
+#### I am a Senior Full-Stack Developer and Blockchain Engineer with over +7 years of experience building secure, scalable, and high-performance applications across traditional web stacks and decentralized platforms. My technical expertise spans front-end frameworks (React, Angular, Vue), back-end technologies (Node.js, Python, Go), and databases (PostgreSQL, MongoDB, MySQL), along with deep knowledge of blockchain ecosystems including Ethereum, Solidity, smart contract development, and decentralized application (dApp) architecture. 
 
-#### My work bridges the gap between user-friendly design and robust back-end architecture. I’ve led agile development teams, architected complex systems, and optimized performance across full application stacks. I thrive in fast-paced environments, enjoy mentoring junior developers, and take pride in delivering clean, maintainable code that drives business value. ####
+#### In my role as a Senior Blockchain Engineer, I’ve designed and deployed smart contracts, built DeFi protocols, implemented NFT marketplaces, and integrated Web3 technologies into modern web platforms. I’m well-versed in using tools like Hardhat, Truffle, IPFS, and The Graph, and have led cross-functional teams to deliver secure and audited blockchain solutions.####
+
+#### Combining full-stack and blockchain capabilities, I bring a holistic approach to modern application development—bridging traditional and decentralized technologies to deliver future-ready solutions. I’m passionate about innovation, open-source collaboration, and mentoring teams to drive meaningful impact in the evolving tech landscape. ####
