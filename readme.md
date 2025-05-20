@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Noguchi and I'm a senior full-stack developer, from Japan</h2>
+<h2 align="center">Hi 👋! My name is Noguchi and I'm a senior full-stack developer</h2>
 
 ###
 
