@@ -82,7 +82,7 @@
 
 ## Introduction ##
 
-#### I am a Senior Full-Stack Developer and Blockchain Engineer with over +7 years of experience building secure, scalable, and high-performance applications across traditional web stacks and decentralized platforms. My technical expertise spans front-end frameworks (React, Angular, Vue), back-end technologies (Node.js, Python, Go), and databases (PostgreSQL, MongoDB, MySQL), along with deep knowledge of blockchain ecosystems including Ethereum, Solidity, smart contract development, and decentralized application (dApp) architecture. 
+#### I am a Senior Full-Stack Developer and Blockchain Engineer with over +6 years of experience building secure, scalable, and high-performance applications across traditional web stacks and decentralized platforms. My technical expertise spans front-end frameworks (React, Angular, Vue), back-end technologies (Node.js, Python, Go), and databases (PostgreSQL, MongoDB, MySQL), along with deep knowledge of blockchain ecosystems including Ethereum, Solidity, smart contract development, and decentralized application (dApp) architecture. 
 
 #### In my role as a Senior Blockchain Engineer, I’ve designed and deployed smart contracts, built DeFi protocols, implemented NFT marketplaces, and integrated Web3 technologies into modern web platforms. I’m well-versed in using tools like Hardhat, Truffle, IPFS, and The Graph, and have led cross-functional teams to deliver secure and audited blockchain solutions.####
 
