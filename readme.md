@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Noguchi and I'm a senior full-stack developer</h2>
+<h2 align="center">Hi 👋! My name is Mirrai Sougi and I'm a software engineer</h2>
 
 ###
 
